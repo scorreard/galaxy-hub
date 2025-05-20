@@ -43,7 +43,7 @@ Contact Saskia,[Paul](mailto:zierep@informatik.uni-freiburg.de) or [Bérénice](
 The wordcloud is based on the number of users that used the shown tools since beginning of 2022 until Sept. 2023. The usage
 numbers were queried from useglaxy.eu and the tools comprise all dedicated tools selected for this community.-->
 
-## Workflows and tutorials
+<!--## Workflows and tutorials
 
 ### Microbiome
 
